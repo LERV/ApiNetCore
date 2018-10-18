@@ -1,0 +1,13 @@
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\bin\Release\netcoreapp2.1\TodoAPI.deps.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\bin\Release\netcoreapp2.1\TodoAPI.runtimeconfig.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\bin\Release\netcoreapp2.1\TodoAPI.runtimeconfig.dev.json
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\bin\Release\netcoreapp2.1\TodoAPI.dll
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\bin\Release\netcoreapp2.1\TodoAPI.pdb
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.csproj.CoreCompileInputs.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.RazorAssemblyInfo.cs
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.AssemblyInfoInputs.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.AssemblyInfo.cs
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.dll
+C:\Users\Luis.DESKTOP-0C92RE4\Documents\Konrad Group\Pruebas\API\ApiNetCore\TodoAPI\TodoAPI\obj\Release\netcoreapp2.1\TodoAPI.pdb

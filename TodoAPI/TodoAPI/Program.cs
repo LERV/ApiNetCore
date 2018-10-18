@@ -12,6 +12,7 @@ namespace TodoAPI
 {
     public class Program
     {
+        /*
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
@@ -20,5 +21,20 @@ namespace TodoAPI
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
+        */
+
+        //For runnning in LAN run App server no II Express on run Icon
+        public static void Main(string[] args)
+        {
+            BuildWebHost(args).Run();
+        }
+
+        public static IWebHost BuildWebHost(string[] args) =>
+            WebHost.CreateDefaultBuilder(args)
+                .UseStartup<Startup>()
+                .UseUrls("http://*:5005")  //Enter your local IP
+                .Build();
+
+        
     }
 }
